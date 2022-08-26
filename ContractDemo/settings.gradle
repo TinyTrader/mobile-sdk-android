@@ -12,8 +12,8 @@ dependencyResolutionManagement {
         mavenCentral()
 
         maven { url "https://jitpack.io" }
-        final def aliyunMavenUser = ''
-        final def aliyunMavenPass = ''
+        final def aliyunMavenUser = '5f991207a3bcee4a48ef5be8'
+        final def aliyunMavenPass = '7[DOcGkjmFVR'
         maven {
             url 'https://maven.aliyun.com/repository/public'
         }
